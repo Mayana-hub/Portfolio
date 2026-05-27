@@ -116,6 +116,11 @@ const FeaturedWork = () => {
               >
                 View Project →
               </a>
+              <h5>
+                User: john@email.com
+                phone:08125587157
+                password:john123
+              </h5>
 
             </div>
 
