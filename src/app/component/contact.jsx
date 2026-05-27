@@ -2,7 +2,6 @@
 
 import { motion } from "framer-motion"
 import { Mail } from "lucide-react"
-import { FaGithub } from "react-icons/fa";
 import { FiGithub, FiLinkedin } from "react-icons/fi";
 const Contact = () => {
   return (
@@ -53,7 +52,7 @@ const Contact = () => {
             </a>
 
             <a
-              href="https://github.com"
+              href="https://github.com/Mayana-hub"
               target="_blank"
               className="inline-flex items-center justify-center gap-2 border border-gray-300 dark:border-white/10 px-6 py-4 rounded-full text-sm font-medium text-black dark:text-white hover:bg-gray-100 dark:hover:bg-white/10 transition"
             >
@@ -62,7 +61,7 @@ const Contact = () => {
             </a>
 
             <a
-              href="https://linkedin.com"
+              href="linkedin.com/in/john-mayana-3a94303b6"
               target="_blank"
               className="inline-flex items-center justify-center gap-2 border border-gray-300 dark:border-white/10 px-6 py-4 rounded-full text-sm font-medium text-black dark:text-white hover:bg-gray-100 dark:hover:bg-white/10 transition"
             >

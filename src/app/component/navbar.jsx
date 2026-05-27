@@ -93,7 +93,7 @@ const Navbar = () => {
           </Link>
 
               <Link
-                href="https://github.com"
+                href="https://github.com/Mayana-hub"
                 target="_blank"
                 className="flex items-center gap-3 text-gray-700"
               >
@@ -102,7 +102,7 @@ const Navbar = () => {
               </Link>
 
               <Link
-                href="https://linkedin.com"
+                href="linkedin.com/in/john-mayana-3a94303b6"
                 target="_blank"
                 className="flex items-center gap-3 text-gray-700"
               >
